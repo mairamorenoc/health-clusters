@@ -37,7 +37,7 @@ painel_estacoes/
 
 ### 1. Baixar e descompactar o banco de dados
 
-Baixe o projeto manualmente em: https://github.com/mairamorenoc/
+Baixe o projeto manualmente em: https://github.com/mairamorenoc/health-clusters
 
 ### 2. Iniciar o app localmente
 
