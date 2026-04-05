@@ -3,7 +3,7 @@
 Plataforma web que permite explorar, por meio de mapas interativos, clusters espaciais e áreas de maior risco (hotspots) relacionadas a indicadores de clima e saúde no Brasil. 
 
 <p align="center">
-  <img src="docs/images/lisa-painel-img.png" width="900">
+  <img src="docs/images/painel_LISA.png" width="900">
 </p>
 
 ---
@@ -78,14 +78,8 @@ A identificação de clusters espaciais é realizada com base no Indicador Local
 
 ---
 
-## 👨‍💻 Equipe de Desenvolvimento
+## 📩 Contato
 
-### Dashboard (Frontend - R Shiny)
-- **Maira Alejandra Moreno**  
-  [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/mairamorenoc)  
-
----
-
-## 📬 Contato
-  
-- [maira.moreno@fiocruz.br](mailto:maira.moreno@fiocruz.br)
+  **Maira Alejandra Moreno**  
+  [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/mairamorenoc)
+  [maira.moreno@fiocruz.br](mailto:maira.moreno@fiocruz.br)
