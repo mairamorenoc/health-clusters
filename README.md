@@ -1,6 +1,7 @@
 # ClusterMap Brasil | OCS/ICICT/Fiocruz
 
 ![R](https://img.shields.io/badge/R-Data%20Science-blue)
+<img src="https://img.shields.io/badge/R-Shiny-blue"/>
 <img src="https://img.shields.io/badge/Leaflet-Maps-green"/>
 
 Plataforma web que permite explorar, por meio de mapas interativos, clusters espaciais e áreas de maior risco (hotspots) relacionadas a indicadores de clima e saúde no Brasil. 
