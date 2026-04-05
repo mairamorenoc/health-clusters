@@ -15,7 +15,7 @@ Plataforma web que permite explorar, por meio de mapas interativos, clusters esp
 ## 📁 Estrutura do Projeto
 
 ```
-painel_estacoes/
+health-clusters/
 ├── app.R                   # Arquivo principal da plataforma, responsável por definir a interface do usuário e a lógica do servidor
 ├── data/
 │   └── db_indx.sqlite    # Banco de dados reduzido para testes locais (não utilizado em produção) 
